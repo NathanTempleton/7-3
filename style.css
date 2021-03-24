@@ -1,0 +1,21 @@
+#age-input {
+  border-radius: 15px;
+  border: solid coral;
+}
+
+#button {
+  border-radius: 15px;
+  border: solid coral;
+  background-color: lightcoral;
+}
+
+#result {
+  border: 2px solid coral;
+  border-radius: 15px;
+  display: none;
+  background-color: lightcoral;
+}
+
+body {
+  background-color: rgba(5, 255, 193, 0.171);
+}
